@@ -1,7 +1,12 @@
-# EEDI2
+## EEDI2 links
+- http://avisynth.nl/index.php/EEDI2
+- https://forum.doom9.org/showthread.php?t=173259 (used binaries for release)
+
+ Install: **[avsrepo install eedi2](https://github.com/theChaosCoder/avsrepo)**
 
 
 
+## Original Readme
                         EEDI2 v0.9.2 (June 07, 2006) -- README
 
 
